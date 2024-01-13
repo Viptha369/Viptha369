@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viptha369
+- 👋 Hi,
 - 👀 I’m interested in learning new things, working on innovative projects and networking to people.
 - 🌱- 🌱 I'm currently on a learning journey, exploring various areas of computer science, to enhance my skills and knowledge.
 - 💞️  I'm excited to collaborate on projects that involve data analysis, data science, and software development.
